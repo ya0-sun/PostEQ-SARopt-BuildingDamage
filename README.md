@@ -95,6 +95,12 @@ python main.py \
 --opt_pretrain imagenet \
 ```
 
+## Results 
+
+![Benchmark results on the dataset.](/images/table1.png)
+
+![Examples of prediction results using SAR, optical, and both data, from their corresponding best model.](/images/visualization.png)
+
 ## Acknowledgment
 
 We would like to thank [Capella Space](https://www.capellaspace.com/) and [Maxar Technologies](https://www.maxar.com/) for providing satellite imagery under [CC BY 4.0 Deed](https://creativecommons.org/licenses/by/4.0/legalcode), and [OpenStreetMap](https://www.openstreetmap.org) and [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) for providing building footprints and annotations of destroyed buildings under [ODbL License](https://opendatacommons.org/licenses/odbl/1.0/). 
