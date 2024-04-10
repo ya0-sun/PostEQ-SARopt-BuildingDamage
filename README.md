@@ -22,12 +22,12 @@ Utilizing open satellite imagery and annotations acquired after the 2023 Turkey-
 
 	The optical image was obtained from Maxar Analysis-Ready Data (ARD) under [Maxar’s open data program](https://www.maxar.com/open-data/turkey-earthquake-2023). The CATALOG ID and QUAD KEY of the used imagery are listed below.
 
-| CATALOG ID      | QUAD KEY       |
-|-----------------|----------------|
-|1040010082698700 | 031133012123   |
-|                 | 031133012132   |
-|                 | 031133012301   |
-|                 | 031133012310   |
+	| CATALOG ID      | QUAD KEY       |
+	|-----------------|----------------|
+	|1040010082698700 | 031133012123   |
+	|                 | 031133012132   |
+	|                 | 031133012301   |
+	|                 | 031133012310   |
 
 
 ### Building footprints and labels of destroyed buildings
