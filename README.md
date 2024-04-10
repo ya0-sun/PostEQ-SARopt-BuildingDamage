@@ -42,7 +42,7 @@ Post-event building footprints and labels of destroyed buildings were obtained f
 
 ## Usage
 
-Downalod the dataset from [here](https://terabox.com/s/1LFynV38hkF2-xEAJwPGM8w), and then extract the dataset to `./data`. The dataset should be organized as follows:
+Downaload the dataset from [here](https://terabox.com/s/1LFynV38hkF2-xEAJwPGM8w), and then extract the dataset to `./data`. The dataset should be organized as follows:
 ```
 data
 ├── damaged
