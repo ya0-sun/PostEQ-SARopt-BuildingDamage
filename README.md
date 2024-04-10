@@ -109,10 +109,11 @@ We would like to thank [Capella Space](https://www.capellaspace.com/) and [Maxar
 ## Citation
 
 If you find the repo useful, please consider cite the following paper:
-
+```
 @article{sun2023quickquakebuildings,
   title={QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection},
   author={Sun, Yao and Wang, Yi and Eineder, Michael},
   journal={arXiv preprint arXiv:2312.06587},
   year={2023}
 }
+```
