@@ -14,13 +14,13 @@ Utilizing open satellite imagery and annotations acquired after the 2023 Turkey-
 
 - SAR
 
-The SAR image was obtained from [Capella Space Synthetic Aperture Radar Open Dataset](capellaspace.com/gallery/). 
+	The SAR image was obtained from [Capella Space Synthetic Aperture Radar Open Dataset](capellaspace.com/gallery/). 
 
-The used image is of type Geocoded Terrain Corrected (GEO), and downloaded from [here](https://radiantearth.github.io/stac-browser/#/external/capella-open-data.s3.us-west-2.amazonaws.com/stac/capella-open-data-by-datetime/capella-open-data-2023/capella-open-data-2023-02/capella-open-data-2023-02-09/CAPELLA_C08_SP_GEO_HH_20230209073421_20230209073446/CAPELLA_C08_SP_GEO_HH_20230209073421_20230209073446.json).
+	The used image is of type Geocoded Terrain Corrected (GEO), and downloaded from [here](https://radiantearth.github.io/stac-browser/#/external/capella-open-data.s3.us-west-2.amazonaws.com/stac/capella-open-data-by-datetime/capella-open-data-2023/capella-open-data-2023-02/capella-open-data-2023-02-09/CAPELLA_C08_SP_GEO_HH_20230209073421_20230209073446/CAPELLA_C08_SP_GEO_HH_20230209073421_20230209073446.json).
 
 - Optical
 
-The optical image was obtained from Maxar Analysis-Ready Data (ARD) under [Maxar’s open data program](https://www.maxar.com/open-data/turkey-earthquake-2023). The CATALOG ID and QUAD KEY of the used imagery are listed below.
+	The optical image was obtained from Maxar Analysis-Ready Data (ARD) under [Maxar’s open data program](https://www.maxar.com/open-data/turkey-earthquake-2023). The CATALOG ID and QUAD KEY of the used imagery are listed below.
 
 | CATALOG ID      | QUAD KEY       |
 |-----------------|----------------|
