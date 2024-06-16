@@ -111,9 +111,12 @@ We would like to thank [Capella Space](https://www.capellaspace.com/) and [Maxar
 If you find the repo useful, please consider cite the following paper:
 ```
 @article{sun2023qqb,
-  title={QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection},
   author={Sun, Yao and Wang, Yi and Eineder, Michael},
-  journal={IEEE Geoscience and Remote Sensing Letters, accepted},
-  year={2024}
-}
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={QuickQuakeBuildings: Post-Earthquake SAR-Optical Dataset for Quick Damaged-Building Detection}, 
+  year={2024},
+  volume={21},
+  pages={1-5},
+  doi={10.1109/LGRS.2024.3406966}}
+
 ```
