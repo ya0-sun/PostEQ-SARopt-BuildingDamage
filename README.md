@@ -1,6 +1,6 @@
 # QQB: QuickQuakeBuildings
 
-This repo contains dataset, code, and explanation of the paper: [QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection](https://arxiv.org/abs/2312.06587) by Yao Sun, Yi Wang, and Michael Eineder. 
+This repo contains dataset, code, and explanation of the paper: [QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection](https://ieeexplore.ieee.org/document/10542156) by Yao Sun, Yi Wang, and Michael Eineder. 
 
 ## Introduction
 
