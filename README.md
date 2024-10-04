@@ -2,6 +2,8 @@
 
 This repo contains dataset, code, and explanation of the paper: [QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection](https://ieeexplore.ieee.org/document/10542156) by Yao Sun, Yi Wang, and Michael Eineder. 
 
+👉 Check out the [LinkedIn Article](https://www.linkedin.com/pulse/introducing-quickquakebuildings-new-dataset-rapid-building-yao-sun-md0jf/?trackingId=k8J2cwO9T%2FiEJUfcYFWLbQ%3D%3D) for the background and motivation. 
+
 ## Introduction
 
 Quick and automated earthquake-damaged building detection from post-event satellite imagery is crucial, yet it is challenging due to the scarcity of training data required to develop robust algorithms. In this work, we provide the first dataset dedicated to detecting earthquake-damaged buildings from post-event very high resolution (VHR) Synthetic Aperture Radar (SAR) and optical imagery. 
